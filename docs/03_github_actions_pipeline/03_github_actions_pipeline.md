@@ -15,7 +15,7 @@ In this exercise, you will create a GitHub Actions CI/CD pipeline (workflow) to 
 
 ## Objectives
 
-After you complete this exercise, you will:
+After completing this exercise, you'll be able to:
 
 * Create a GitHub Actions CI/CD pipeline (workflow)
 * Test the workflow as part of the Pull Request process

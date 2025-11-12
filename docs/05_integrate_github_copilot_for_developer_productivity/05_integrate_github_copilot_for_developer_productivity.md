@@ -9,13 +9,13 @@ has_children: true
 
 ## Scenario
 
-This training will have you implement a customer proof of concept using DevOps and AI-driven development practices. The customer in this scenario is Zava, a retail chain that specializes in "do-it-yourself" solutions for home improvement projects. Zava has a simple storefront prototype and would like to establish best practices for DevOps setup and AI-assisted development and delivery. In this lab, you will use GitHub Copilot to create a new task to update the existing application to the latest LTS version of dotnet, and you will use GitHub Copilot to implement the issue. 
+This training will have you implement a customer proof of concept using DevOps and AI-driven development practices. The customer in this scenario is Zava, a retail chain that specializes in "do-it-yourself" solutions for home improvement projects. Zava has a simple storefront prototype and would like to establish best practices for DevOps setup and AI-assisted development and delivery. In this lab, you will use GitHub Copilot to create a new task to update the existing application to the latest LTS version of dotnet, and you will use GitHub Copilot to implement the issue.
 
 ## Objectives
 
-After you complete this exercise, you will:
+After completing this exercise, you'll be able to:
 
-- Create a GitHub Issue to monitor the dotnet update
+- Create a GitHub issue to monitor the .NET update
 - Implement the issue from the Copilot chat inside VS Code
 
 ## Duration

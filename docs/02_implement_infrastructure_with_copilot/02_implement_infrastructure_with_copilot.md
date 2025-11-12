@@ -15,11 +15,11 @@ In this exercise, you will use GitHub Copilot to create an infrastructure GitHub
 
 ## Objectives
 
-After you complete this exercise, you will:
- 
-* Create a GitHub issue using Chat for Copilot
+After completing this exercise, you'll be able to:
+
+* Create a GitHub issue using Chat with Copilot
 * Generate Bicep scripts from a GitHub issue using GitHub Copilot and Azure MCP Server
-* Learn techniques for improving scripts iteratively with Copilot prompts
+* Apply techniques for improving scripts iteratively with Copilot prompts
 * Execute the Bicep scripts to create the infrastructure
 
 ## Duration
